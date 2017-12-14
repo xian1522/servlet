@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="upload" method="post" enctype="multipart/form-data">
+	<form action="UploadServlet" method="post" enctype="multipart/form-data">
 <!-- 	  <input type="text" name="description" /> <br>	 -->
 	  <input type="file" name="file" /><br>
 	  <input type="submit"  value="submit"/>
